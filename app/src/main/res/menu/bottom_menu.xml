@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/cats"
+        android:icon="@drawable/cat_icon"
+        android:title="@string/Cats" />
+
+    <item
+        android:id="@+id/dice"
+        android:icon="@drawable/dice_icon"
+        android:title="@string/dice" />
+
+    <item
+        android:id="@+id/about"
+        android:icon="@drawable/about_foreground"
+        android:title="@string/email_me" />
+
+</menu>

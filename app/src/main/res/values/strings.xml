@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Catalogizer</string>
+    <string name="number">Число</string>
+    <string name="dice">Кубики</string>
+    <string name="coin">Монетка</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="random">Random</string>
+    <string name="email_me">Пишите мне</string>
+    <string name="roll_dice">Бросить</string>
+    <string name="Cats">Кошки</string>
+</resources>
