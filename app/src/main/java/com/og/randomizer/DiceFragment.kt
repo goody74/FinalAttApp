@@ -72,6 +72,7 @@ class DiceFragment : Fragment() {
     override fun onSaveInstanceState(outState: Bundle) {
         super.onSaveInstanceState(outState)
         outState.putInt(LAST_RANDOM_VALUE, randomValue)
+        outState.putInt(LAST_RANDOM_VALUE_R, randomValueR)
     }
 
 }
